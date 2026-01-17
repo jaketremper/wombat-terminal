@@ -1,6 +1,6 @@
 # W.O.M.B.A.T. Terminal Offline
 
-**Wireless Omnidirectional Multi-Band Awareness Toolkit**
+**Wireless Omnidirectional Multi-Band Awareness Toolkit Terminal**
 
 A self-contained, browser-based terminal for **neighborhood emergency communications planning**.  
 Runs entirely offline. No servers. No tracking. No dependencies. Just open the HTML file.
